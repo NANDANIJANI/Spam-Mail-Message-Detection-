@@ -1,0 +1,15 @@
+Not Spam:-
+
+Subject: Invoice attached for your recent order #12345
+
+Hi team, please find attached the updated project plan for this month. Let me know your comments by Friday.
+
+Hey John, it was great catching up yesterday. Let’s plan something for next weekend.
+
+Spam:-
+
+URGENT: Your account has been compromised. Verify your identity at http://fakebank-login.com immediately!
+
+Subject: Winner! Call 09012345678 to claim your prize.
+
+Congratulations! You’ve been selected for a $500 Amazon gift card. Click here to claim: http://scam-link.com
